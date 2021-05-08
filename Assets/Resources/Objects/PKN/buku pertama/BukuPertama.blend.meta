@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 6111fdbd4ebc5b445a0ff890df79a3a5
+timeCreated: 1522404595
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gedung1
+    100004: gedung2
+    100006: gedung3
+    100008: gedung4
+    100010: Plane_000
+    100012: Plane_001
+    100014: Plane_006
+    100016: Plane_007
+    100018: Plane_008
+    100020: Plane_009
+    100022: Plane_010
+    100024: Plane_011
+    100026: Plane_017
+    100028: Plane_018
+    100030: Plane
+    400000: //RootNode
+    400002: gedung1
+    400004: gedung2
+    400006: gedung3
+    400008: gedung4
+    400010: Plane_000
+    400012: Plane_001
+    400014: Plane_006
+    400016: Plane_007
+    400018: Plane_008
+    400020: Plane_009
+    400022: Plane_010
+    400024: Plane_011
+    400026: Plane_017
+    400028: Plane_018
+    400030: Plane
+    2100000: gapura__gapura_png
+    2100002: banner_nagasaski__nagasaki_png
+    2100004: banner__hiroshima_png
+    2100006: Material_008__Bakar3_png
+    2100008: Material__Bakar1_png
+    2100010: Material_007__Bakar2_png
+    2100012: Material_012__Bakar1_png_004
+    2100014: unnamed
+    2100016: Material_016__Oke1_png_001
+    2100018: Material_015__Oke2_png_001
+    2100020: Material_014__Oke3_png_001
+    2100022: Material_013__Bock_s_Car_png_001
+    2100024: Material_011__Little_Boy_png_001
+    2100026: Material_001
+    2300000: gedung1
+    2300002: gedung2
+    2300004: gedung3
+    2300006: gedung4
+    2300008: Plane_000
+    2300010: Plane_001
+    2300012: Plane_006
+    2300014: Plane_007
+    2300016: Plane_008
+    2300018: Plane_009
+    2300020: Plane_010
+    2300022: Plane_011
+    2300024: Plane_017
+    2300026: Plane_018
+    2300028: Plane
+    3300000: gedung1
+    3300002: gedung2
+    3300004: gedung3
+    3300006: gedung4
+    3300008: Plane_000
+    3300010: Plane_001
+    3300012: Plane_006
+    3300014: Plane_007
+    3300016: Plane_008
+    3300018: Plane_009
+    3300020: Plane_010
+    3300022: Plane_011
+    3300024: Plane_017
+    3300026: Plane_018
+    3300028: Plane
+    4300000: Plane_001
+    4300002: Plane_000
+    4300004: Plane_009
+    4300006: Plane_006
+    4300008: Plane_007
+    4300010: Plane_008
+    4300012: Plane_010
+    4300014: Plane_011
+    4300016: gedung1
+    4300018: gedung4
+    4300020: gedung2
+    4300022: gedung3
+    4300024: Plane_018
+    4300026: Plane_017
+    4300028: Plane
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007__Bakar2_png
+    second: {fileID: 2100000, guid: 02959464ce8edc94ba99669e47b33326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008__Bakar3_png
+    second: {fileID: 2100000, guid: 9fecbfcd0fb1a694ca14adb89bdf2564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_011__Little_Boy_png_001
+    second: {fileID: 2100000, guid: efe0b894344b55248b9d184ded556221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_012__Bakar1_png_004
+    second: {fileID: 2100000, guid: a90ca4001f3565946a6d4b33a4ed0d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_013__Bock_s_Car_png_001
+    second: {fileID: 2100000, guid: f6d0ce2c36a767e428799c05bde83b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_014__Oke3_png_001
+    second: {fileID: 2100000, guid: 0284978a091ad7940a21399201d1cb05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_015__Oke2_png_001
+    second: {fileID: 2100000, guid: 48f62befbb1fccb47951d434c52ba146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_016__Oke1_png_001
+    second: {fileID: 2100000, guid: 269725cbfa2394540922b2a291c176ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__Bakar1_png
+    second: {fileID: 2100000, guid: a90ca4001f3565946a6d4b33a4ed0d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banner__hiroshima_png
+    second: {fileID: 2100000, guid: 985b436d6174ebb4fb085e7ebed896fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banner_nagasaski__nagasaki_png
+    second: {fileID: 2100000, guid: f2dc79171fcd37046a13d63762aa683a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

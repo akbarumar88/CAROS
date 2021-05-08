@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: fcd87942b91c7724e852c821438499ce
+timeCreated: 1521283367
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm
+    100002: //RootNode
+    100004: Plane_002
+    100006: plat_3
+    100008: spindle
+    100010: tutup_atas
+    100012: tutup_bawah
+    400000: arm
+    400002: //RootNode
+    400004: Plane_002
+    400006: plat_3
+    400008: spindle
+    400010: tutup_atas
+    400012: tutup_bawah
+    2100000: BesiSpindle
+    2100002: goldPlat
+    2100004: unnamed
+    2100006: logic
+    2100008: merk
+    2100010: logic_001
+    2100012: boyHDD__texturelogic_jpg_002
+    2100014: boyHDD
+    2100016: logic_001__texturelogic_jpg_002
+    2100018: logic_001__texturelogic_jpg
+    2300000: arm
+    2300002: Plane_002
+    2300004: plat_3
+    2300006: spindle
+    2300008: tutup_atas
+    2300010: tutup_bawah
+    3300000: arm
+    3300002: Plane_002
+    3300004: plat_3
+    3300006: spindle
+    3300008: tutup_atas
+    3300010: tutup_bawah
+    4300000: spindle
+    4300002: plat_3
+    4300004: arm
+    4300006: Plane_002
+    4300008: tutup_bawah
+    4300010: tutup_atas
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BesiSpindle
+    second: {fileID: 2100000, guid: af4fd2a2417a93347ab7295e0272d6d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: goldPlat
+    second: {fileID: 2100000, guid: 4ce2317be4ec6734398ad79ee038bfb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logic
+    second: {fileID: 2100000, guid: 6b24cb4163e23594fa40c8d588e9cb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logic_001
+    second: {fileID: 2100000, guid: 6b24cb4163e23594fa40c8d588e9cb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logic_001__texturelogic_jpg
+    second: {fileID: 2100000, guid: 6b24cb4163e23594fa40c8d588e9cb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logic_001__texturelogic_jpg_002
+    second: {fileID: 2100000, guid: 6b24cb4163e23594fa40c8d588e9cb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: merk
+    second: {fileID: 2100000, guid: 858cb977a2fac86429b07fa254a0cb14, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

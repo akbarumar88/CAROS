@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="batik" size="5.000000 3.125000" />
+    <ImageTarget name="tari-pendet" size="5.000000 3.325000" />
+    <ImageTarget name="rw_arm" size="5.000000 1.709906" />
+    <ImageTarget name="rumah_adat" size="5.000000 2.664286" />
+    <ImageTarget name="platter" size="5.000000 3.750000" />
+    <ImageTarget name="pakaian_adat" size="5.000000 5.075000" />
+    <ImageTarget name="logic_board" size="5.000000 2.812500" />
+    <ImageTarget name="hdd_spindle" size="5.000000 3.750000" />
+    <ImageTarget name="gamelan" size="5.000000 2.012500" />
+    <ImageTarget name="actuator" size="5.000000 2.534884" />
+  </Tracking>
+</QCARConfig>

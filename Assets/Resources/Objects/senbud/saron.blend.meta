@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: c37a376891efa48439c7518999fc0eb3
+timeCreated: 1521173267
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube_002
+    100002: Cylinder
+    100004: Cylinder_001
+    100006: Cylinder_002
+    100008: Cylinder_003
+    100010: Cylinder_004
+    100012: Cylinder_005
+    100014: Cylinder_006
+    100016: Cylinder_007
+    100018: Cylinder_008
+    100020: Cylinder_009
+    100022: Cylinder_010
+    100024: Cylinder_011
+    100026: Cylinder_012
+    100028: Cylinder_013
+    100030: Plane
+    100032: Plane_001
+    100034: Plane_002
+    100036: Plane_003
+    100038: Plane_004
+    100040: Plane_005
+    100042: Plane_006
+    100044: //RootNode
+    100046: Cube
+    100048: Cylinder_015
+    100050: Plane_007
+    400000: Cube_002
+    400002: Cylinder
+    400004: Cylinder_001
+    400006: Cylinder_002
+    400008: Cylinder_003
+    400010: Cylinder_004
+    400012: Cylinder_005
+    400014: Cylinder_006
+    400016: Cylinder_007
+    400018: Cylinder_008
+    400020: Cylinder_009
+    400022: Cylinder_010
+    400024: Cylinder_011
+    400026: Cylinder_012
+    400028: Cylinder_013
+    400030: Plane
+    400032: Plane_001
+    400034: Plane_002
+    400036: Plane_003
+    400038: Plane_004
+    400040: Plane_005
+    400042: Plane_006
+    400044: //RootNode
+    400046: Cube
+    400048: Cylinder_015
+    400050: Plane_007
+    2100000: unnamed
+    2100002: old_gold
+    2100004: kayu__kayu_jpg
+    2100006: kuning__kayu_jpg
+    2100008: old_gold__old_gold_jpg
+    2100010: Material__0046-brass-metal-texture-seamless-hr_jpg
+    2100012: Material_001__dark_wood_by_killerru-d4b2k29_jpg
+    2100014: Material_010__1920x1080-black-solid-color-background_jpg
+    2100016: kayu__a52da8a8-528d-4e15-9d40-e2ebf6bc1568_jpg
+    2100018: kayu__1920x1080-black-solid-color-background_jpg
+    2100020: Material_012__cement-340455_960_720_jpg
+    2100022: gold__852713400_224610_jpg
+    2100024: Material_006__852713400_224610_jpg
+    2100026: Material_015__cement-340455_960_720_jpg
+    2100028: Material_013__cement-340455_960_720_jpg
+    2100030: Material_016__cement-340455_960_720_jpg
+    2100032: Material_017__cement-340455_960_720_jpg
+    2100034: Material_014__cement-340455_960_720_jpg
+    2100036: Material_021__cement-340455_960_720_jpg
+    2100038: Material_004__cement-340455_960_720_jpg
+    2100040: Material_018__cement-340455_960_720_jpg
+    2100042: Material_022__cement-340455_960_720_jpg
+    2100044: Material_023__cement-340455_960_720_jpg
+    2100046: Material_019__cement-340455_960_720_jpg
+    2100048: Material_020__cement-340455_960_720_jpg
+    2100050: Material_024__cement-340455_960_720_jpg
+    2100052: Material_007__852713400_224610_jpg_001
+    2100054: Material_008__852713400_224610_jpg_002
+    2100056: Material_009__852713400_224610_jpg_003
+    2300000: Cube_002
+    2300002: Cylinder
+    2300004: Cylinder_001
+    2300006: Cylinder_002
+    2300008: Cylinder_003
+    2300010: Cylinder_004
+    2300012: Cylinder_005
+    2300014: Cylinder_006
+    2300016: Cylinder_007
+    2300018: Cylinder_008
+    2300020: Cylinder_009
+    2300022: Cylinder_010
+    2300024: Cylinder_011
+    2300026: Cylinder_012
+    2300028: Cylinder_013
+    2300030: Plane
+    2300032: Plane_001
+    2300034: Plane_002
+    2300036: Plane_003
+    2300038: Plane_004
+    2300040: Plane_005
+    2300042: Plane_006
+    2300044: Cube
+    2300046: Cylinder_015
+    2300048: Plane_007
+    3300000: Cube_002
+    3300002: Cylinder
+    3300004: Cylinder_001
+    3300006: Cylinder_002
+    3300008: Cylinder_003
+    3300010: Cylinder_004
+    3300012: Cylinder_005
+    3300014: Cylinder_006
+    3300016: Cylinder_007
+    3300018: Cylinder_008
+    3300020: Cylinder_009
+    3300022: Cylinder_010
+    3300024: Cylinder_011
+    3300026: Cylinder_012
+    3300028: Cylinder_013
+    3300030: Plane
+    3300032: Plane_001
+    3300034: Plane_002
+    3300036: Plane_003
+    3300038: Plane_004
+    3300040: Plane_005
+    3300042: Plane_006
+    3300044: Cube
+    3300046: Cylinder_015
+    3300048: Plane_007
+    4300000: Cylinder
+    4300002: Plane
+    4300004: Cube_002
+    4300006: Plane_001
+    4300008: Plane_002
+    4300010: Plane_003
+    4300012: Plane_004
+    4300014: Plane_005
+    4300016: Plane_006
+    4300018: Cylinder_001
+    4300020: Cylinder_003
+    4300022: Cylinder_002
+    4300024: Cylinder_005
+    4300026: Cylinder_004
+    4300028: Cylinder_007
+    4300030: Cylinder_006
+    4300032: Cylinder_009
+    4300034: Cylinder_008
+    4300036: Cylinder_011
+    4300038: Cylinder_010
+    4300040: Cylinder_013
+    4300042: Cylinder_012
+    4300044: Cylinder_015
+    4300046: Plane_007
+    4300048: Cube
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__dark_wood_by_killerru-d4b2k29_jpg
+    second: {fileID: 2100000, guid: 998ecc8deaef6104e9f30347649f6fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__0046-brass-metal-texture-seamless-hr_jpg
+    second: {fileID: 2100000, guid: 422133bbd681895459e081a81b3880f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold__852713400_224610_jpg
+    second: {fileID: 2100000, guid: 36fe9fd32987c05449038afea8c2e471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kayu__1920x1080-black-solid-color-background_jpg
+    second: {fileID: 2100000, guid: 68f34fc66ed668e4687a100a672077fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kayu__a52da8a8-528d-4e15-9d40-e2ebf6bc1568_jpg
+    second: {fileID: 2100000, guid: 998ecc8deaef6104e9f30347649f6fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kayu__kayu_jpg
+    second: {fileID: 2100000, guid: 15c8a599d9d366948af3f5fb6d31cc13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: old_gold
+    second: {fileID: 2100000, guid: 36fe9fd32987c05449038afea8c2e471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: old_gold__old_gold_jpg
+    second: {fileID: 2100000, guid: 36fe9fd32987c05449038afea8c2e471, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

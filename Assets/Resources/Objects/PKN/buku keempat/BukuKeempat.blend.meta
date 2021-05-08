@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 3248ddb2a717fde45bd1dd199a99107b
+timeCreated: 1521953937
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BawahanBuku
+    100002: //RootNode
+    100004: Controller
+    100006: Controller_001
+    100008: Controller_002
+    100010: Controller_003
+    100012: Controller_004
+    100014: Cover
+    100016: Cylinder
+    100018: Field
+    100020: KERTAS_1
+    100022: KERTAS_2
+    100024: KERTAS_3
+    100026: KERTAS_4
+    100028: KERTAS_5
+    100030: Page_Turn
+    100032: Page_Turn_001
+    100034: Page_Turn_002
+    100036: Page_Turn_003
+    100038: Page_Turn_004
+    100040: PIVOT
+    100042: PIVOT_001
+    100044: PIVOT_002
+    100046: PIVOT_003
+    100048: PIVOT_004
+    100050: Plane
+    100052: Plane_001
+    100054: Plane_002
+    100056: Plane_003
+    100058: Plane_004
+    100060: Plane_005
+    100062: Plane_006
+    100064: TanganCover
+    100066: Plane_007
+    100068: peserta1_000
+    100070: peserta1_001
+    100072: peserta1_002
+    100074: peserta1_003
+    100076: peserta1_004
+    100078: peserta1_005
+    400000: BawahanBuku
+    400002: //RootNode
+    400004: Controller
+    400006: Controller_001
+    400008: Controller_002
+    400010: Controller_003
+    400012: Controller_004
+    400014: Cover
+    400016: Cylinder
+    400018: Field
+    400020: KERTAS_1
+    400022: KERTAS_2
+    400024: KERTAS_3
+    400026: KERTAS_4
+    400028: KERTAS_5
+    400030: Page_Turn
+    400032: Page_Turn_001
+    400034: Page_Turn_002
+    400036: Page_Turn_003
+    400038: Page_Turn_004
+    400040: PIVOT
+    400042: PIVOT_001
+    400044: PIVOT_002
+    400046: PIVOT_003
+    400048: PIVOT_004
+    400050: Plane
+    400052: Plane_001
+    400054: Plane_002
+    400056: Plane_003
+    400058: Plane_004
+    400060: Plane_005
+    400062: Plane_006
+    400064: TanganCover
+    400066: Plane_007
+    400068: peserta1_000
+    400070: peserta1_001
+    400072: peserta1_002
+    400074: peserta1_003
+    400076: peserta1_004
+    400078: peserta1_005
+    2100000: unnamed
+    2100002: Material_001__Thumb-BUKU_STATISTIK-DITJEN_PSP-2011-2015_jpg
+    2100004: Material_001
+    2100006: Material_002
+    2100008: Material_007__Proklamasi_Ketik_png
+    2100010: Material__Soekarno_png_001
+    2100012: Material_003__Moh__Hatta_png
+    2100014: Material_004
+    2100016: merah_002
+    2100018: putih_002
+    2100020: Material_006__Petugas_png_004
+    2100022: Material_008__Ir_Soekarno_png_001
+    2100024: Material_009__Moh__Hatta_png_001
+    2100026: Material_005__peserta_png
+    2100028: Material_002__Moh__Hatta_png_002
+    2300000: BawahanBuku
+    2300002: Cover
+    2300004: Cylinder
+    2300006: KERTAS_1
+    2300008: KERTAS_2
+    2300010: KERTAS_3
+    2300012: KERTAS_4
+    2300014: KERTAS_5
+    2300016: Plane
+    2300018: Plane_001
+    2300020: Plane_002
+    2300022: Plane_003
+    2300024: Plane_004
+    2300026: Plane_005
+    2300028: Plane_006
+    2300030: TanganCover
+    2300032: Plane_007
+    2300034: peserta1_000
+    2300036: peserta1_001
+    2300038: peserta1_002
+    2300040: peserta1_003
+    2300042: peserta1_004
+    2300044: peserta1_005
+    3300000: BawahanBuku
+    3300002: Cover
+    3300004: Cylinder
+    3300006: KERTAS_1
+    3300008: KERTAS_2
+    3300010: KERTAS_3
+    3300012: KERTAS_4
+    3300014: KERTAS_5
+    3300016: Plane
+    3300018: Plane_001
+    3300020: Plane_002
+    3300022: Plane_003
+    3300024: Plane_004
+    3300026: Plane_005
+    3300028: Plane_006
+    3300030: TanganCover
+    3300032: Plane_007
+    3300034: peserta1_000
+    3300036: peserta1_001
+    3300038: peserta1_002
+    3300040: peserta1_003
+    3300042: peserta1_004
+    3300044: peserta1_005
+    4300000: BawahanBuku
+    4300002: Cover
+    4300004: TanganCover
+    4300006: Plane_003
+    4300008: Plane
+    4300010: Plane_001
+    4300012: Cylinder
+    4300014: Plane_002
+    4300016: Plane_004
+    4300018: Plane_005
+    4300020: Plane_006
+    4300022: KERTAS_1
+    4300024: KERTAS_2
+    4300026: KERTAS_3
+    4300028: KERTAS_4
+    4300030: KERTAS_5
+    4300032: Plane_007
+    4300034: peserta1_004
+    4300036: peserta1_003
+    4300038: peserta1_002
+    4300040: peserta1_001
+    4300042: peserta1_000
+    4300044: peserta1_005
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__Thumb-BUKU_STATISTIK-DITJEN_PSP-2011-2015_jpg
+    second: {fileID: 2100000, guid: 11a876c9a2f6e2f48857ef7efce43a49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__Moh__Hatta_png_002
+    second: {fileID: 2100000, guid: 719f09e19d8d79348973d2ad09eccdf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003__Moh__Hatta_png
+    second: {fileID: 2100000, guid: 719f09e19d8d79348973d2ad09eccdf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005__peserta_png
+    second: {fileID: 2100000, guid: 20a927490af56a548bd156f0188dcb5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006__Petugas_png_004
+    second: {fileID: 2100000, guid: e328259616d2aeb49bc9cb0f0c122580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007__Proklamasi_Ketik_png
+    second: {fileID: 2100000, guid: 225b9f9cad44a8d4ebe79b012348ab81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008__Ir_Soekarno_png_001
+    second: {fileID: 2100000, guid: 79f1576c5ee87ec458649cfdef708175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009__Moh__Hatta_png_001
+    second: {fileID: 2100000, guid: ac596e15ff57dfb4796faaf2d85109ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__Soekarno_png_001
+    second: {fileID: 2100000, guid: 3268b6344fc7c184baf7ea92a8ba51b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: merah_002
+    second: {fileID: 2100000, guid: dc9d22829d8c56d409006880f790ed3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: putih_002
+    second: {fileID: 2100000, guid: 23039f08402d21c4eb9db033c5e950c1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 599
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Magnifying_Glass" size="1.000000 0.754159" />
+    <ImageTarget name="Actuator" size="1.000000 1.000000" />
+    <ImageTarget name="Proklamasi2" size="1.000000 0.754159" />
+    <ImageTarget name="Indonesian_Army" size="1.000000 0.754159" />
+    <ImageTarget name="Telescope" size="1.000000 0.768640" />
+    <ImageTarget name="Logic_Board" size="1.000000 0.754159" />
+    <ImageTarget name="Baju_Adat" size="1.000000 0.754159" />
+    <ImageTarget name="Voc_Money" size="1.000000 0.754159" />
+    <ImageTarget name="Voc_Army" size="1.000000 0.754159" />
+    <ImageTarget name="Spindle" size="1.000000 0.754159" />
+    <ImageTarget name="SLR" size="1.000000 0.752311" />
+    <ImageTarget name="Silat" size="1.000000 0.754159" />
+    <ImageTarget name="Saron" size="1.000000 0.754159" />
+    <ImageTarget name="Rengas_Dengklok" size="1.000000 0.754159" />
+    <ImageTarget name="Proklamasi1" size="1.000000 0.754159" />
+    <ImageTarget name="Platter" size="1.000000 0.754159" />
+    <ImageTarget name="Monas" size="1.000000 0.754159" />
+    <ImageTarget name="Microscope" size="1.000000 0.752311" />
+    <ImageTarget name="Merdeka" size="1.000000 0.754159" />
+    <ImageTarget name="Malam_Proklamasi" size="1.000000 0.754159" />
+    <ImageTarget name="Joglo" size="1.000000 0.754159" />
+    <ImageTarget name="Japan_Surender" size="1.000000 0.754159" />
+    <ImageTarget name="Glasses" size="1.000000 0.752311" />
+    <ImageTarget name="Batik" size="1.000000 0.754159" />
+    <ImageTarget name="RW_Arm" size="1.000000 0.754159" />
+  </Tracking>
+</QCARConfig>

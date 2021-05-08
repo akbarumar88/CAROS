@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: d3757f9ec3cafd4488f220e0de101809
+timeCreated: 1522137100
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: badan_001
+    100002: Bone
+    100004: cewek
+    100006: cewek_001
+    100008: Chest
+    100010: Chest_0
+    100012: cowok
+    100014: //RootNode
+    100016: Fingers01_L
+    100018: Fingers01_L_0
+    100020: Fingers01_R
+    100022: Fingers01_R_0
+    100024: Fingers02_L
+    100026: Fingers02_L_0
+    100028: Fingers02_R
+    100030: Fingers02_R_0
+    100032: Foot_L
+    100034: Foot_L_0
+    100036: Foot_R
+    100038: Foot_R_0
+    100040: Hand_L
+    100042: Hand_L_0
+    100044: Hand_R
+    100046: Hand_R_0
+    100048: Head
+    100050: Head_0
+    100052: Leg_Control_L
+    100054: Leg_Control_L_0
+    100056: Leg_Control_R
+    100058: Leg_Control_R_0
+    100060: Lower_Arm_L
+    100062: Lower_Arm_L_0
+    100064: Lower_Arm_R
+    100066: Lower_Arm_R_0
+    100068: Lower_Leg_L
+    100070: Lower_Leg_L_0
+    100072: Lower_Leg_R
+    100074: Lower_Leg_R_0
+    100076: Neck
+    100078: Neck_0
+    100080: Root
+    100082: Root_0
+    100084: Thumb01_L
+    100086: Thumb01_L_0
+    100088: Thumb01_R
+    100090: Thumb01_R_0
+    100092: Thumb02_L
+    100094: Thumb02_L_0
+    100096: Thumb02_R
+    100098: Thumb02_R_0
+    100100: Toes_L
+    100102: Toes_L_0
+    100104: Toes_R
+    100106: Toes_R_0
+    100108: Torso
+    100110: Torso_0
+    100112: Upper_Arm_L
+    100114: Upper_Arm_L_0
+    100116: Upper_Arm_R
+    100118: Upper_Arm_R_0
+    100120: Upper_Leg_L
+    100122: Upper_Leg_L_0
+    100124: Upper_Leg_R
+    100126: Upper_Leg_R_0
+    400000: badan_001
+    400002: Bone
+    400004: cewek
+    400006: cewek_001
+    400008: Chest
+    400010: Chest_0
+    400012: cowok
+    400014: //RootNode
+    400016: Fingers01_L
+    400018: Fingers01_L_0
+    400020: Fingers01_R
+    400022: Fingers01_R_0
+    400024: Fingers02_L
+    400026: Fingers02_L_0
+    400028: Fingers02_R
+    400030: Fingers02_R_0
+    400032: Foot_L
+    400034: Foot_L_0
+    400036: Foot_R
+    400038: Foot_R_0
+    400040: Hand_L
+    400042: Hand_L_0
+    400044: Hand_R
+    400046: Hand_R_0
+    400048: Head
+    400050: Head_0
+    400052: Leg_Control_L
+    400054: Leg_Control_L_0
+    400056: Leg_Control_R
+    400058: Leg_Control_R_0
+    400060: Lower_Arm_L
+    400062: Lower_Arm_L_0
+    400064: Lower_Arm_R
+    400066: Lower_Arm_R_0
+    400068: Lower_Leg_L
+    400070: Lower_Leg_L_0
+    400072: Lower_Leg_R
+    400074: Lower_Leg_R_0
+    400076: Neck
+    400078: Neck_0
+    400080: Root
+    400082: Root_0
+    400084: Thumb01_L
+    400086: Thumb01_L_0
+    400088: Thumb01_R
+    400090: Thumb01_R_0
+    400092: Thumb02_L
+    400094: Thumb02_L_0
+    400096: Thumb02_R
+    400098: Thumb02_R_0
+    400100: Toes_L
+    400102: Toes_L_0
+    400104: Toes_R
+    400106: Toes_R_0
+    400108: Torso
+    400110: Torso_0
+    400112: Upper_Arm_L
+    400114: Upper_Arm_L_0
+    400116: Upper_Arm_R
+    400118: Upper_Arm_R_0
+    400120: Upper_Leg_L
+    400122: Upper_Leg_L_0
+    400124: Upper_Leg_R
+    400126: Upper_Leg_R_0
+    2100000: Material_067__UV_002
+    2100002: Material_066__UV_002
+    2100004: Material_058__UV_002
+    2100006: abu_abu_002__UV_002
+    2100008: Material_060__UV_002
+    2100010: Material_063__UV_002
+    2100012: cream_005__UV_002
+    2100014: Material_065__UV_002
+    2100016: coklat_pekat_002__UV_002
+    2100018: Material_062__UV_002
+    2100020: Material_059__UV_002
+    2100022: hitam_002__UV_002
+    2100024: Material_062
+    2100026: Material_059
+    2100028: Material_069
+    2100030: Material_076
+    2100032: Material_072
+    2100034: Material_073
+    2100036: Material_075
+    2100038: Material_071
+    2100040: Material_074
+    4300000: badan_001
+    4300002: cewek
+    7400000: Default Take
+    7400002: salam_001
+    9500000: //RootNode
+    13700000: badan_001
+    13700002: cewek
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: salam_001
+      takeName: salam_001
+      firstFrame: -2
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

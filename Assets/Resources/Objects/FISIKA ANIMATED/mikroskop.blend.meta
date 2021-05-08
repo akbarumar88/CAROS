@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 7b0e9517fa485a9418fe776acc774453
+timeCreated: 1522081411
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Circle_001
+    100004: Circle_002
+    100006: Circle_003
+    100008: Circle_004
+    100010: Circle_005
+    100012: Circle_006
+    100014: Circle_007
+    100016: Circle_008
+    100018: Cube
+    100020: Cube_000
+    100022: Cube_001
+    100024: Cube_002
+    100026: Cube_003
+    100028: Cube_004
+    100030: Cylinder
+    100032: Cylinder_000
+    100034: Cylinder_001
+    100036: Cylinder_002
+    100038: Cylinder_003
+    100040: Cylinder_004
+    100042: Cylinder_005
+    100044: Cylinder_006
+    100046: Cylinder_007
+    100048: Cylinder_008
+    100050: Cylinder_009
+    100052: Cylinder_010
+    100054: Cylinder_011
+    100056: Cylinder_012
+    100058: //RootNode
+    100060: NurbsPath_001
+    100062: Plane
+    100064: Plane_001
+    100066: Plane_002
+    100068: Plane_003
+    100070: Text
+    400000: Circle
+    400002: Circle_001
+    400004: Circle_002
+    400006: Circle_003
+    400008: Circle_004
+    400010: Circle_005
+    400012: Circle_006
+    400014: Circle_007
+    400016: Circle_008
+    400018: Cube
+    400020: Cube_000
+    400022: Cube_001
+    400024: Cube_002
+    400026: Cube_003
+    400028: Cube_004
+    400030: Cylinder
+    400032: Cylinder_000
+    400034: Cylinder_001
+    400036: Cylinder_002
+    400038: Cylinder_003
+    400040: Cylinder_004
+    400042: Cylinder_005
+    400044: Cylinder_006
+    400046: Cylinder_007
+    400048: Cylinder_008
+    400050: Cylinder_009
+    400052: Cylinder_010
+    400054: Cylinder_011
+    400056: Cylinder_012
+    400058: //RootNode
+    400060: NurbsPath_001
+    400062: Plane
+    400064: Plane_001
+    400066: Plane_002
+    400068: Plane_003
+    400070: Text
+    2100000: keju__cheese_jpg
+    2100002: daging__beef_jpg
+    2100004: plastik_hitam
+    2100006: Material_001
+    2100008: metal_besi
+    2100010: alas
+    2100012: unnamed
+    2300000: Circle
+    2300002: Circle_001
+    2300004: Circle_002
+    2300006: Circle_003
+    2300008: Circle_004
+    2300010: Circle_005
+    2300012: Circle_006
+    2300014: Circle_007
+    2300016: Circle_008
+    2300018: Cube
+    2300020: Cube_000
+    2300022: Cube_001
+    2300024: Cube_002
+    2300026: Cube_003
+    2300028: Cube_004
+    2300030: Cylinder
+    2300032: Cylinder_000
+    2300034: Cylinder_001
+    2300036: Cylinder_002
+    2300038: Cylinder_003
+    2300040: Cylinder_004
+    2300042: Cylinder_005
+    2300044: Cylinder_006
+    2300046: Cylinder_007
+    2300048: Cylinder_008
+    2300050: Cylinder_009
+    2300052: Cylinder_010
+    2300054: Cylinder_011
+    2300056: Cylinder_012
+    2300058: NurbsPath_001
+    2300060: Plane
+    2300062: Plane_001
+    2300064: Plane_002
+    2300066: Plane_003
+    2300068: Text
+    3300000: Circle
+    3300002: Circle_001
+    3300004: Circle_002
+    3300006: Circle_003
+    3300008: Circle_004
+    3300010: Circle_005
+    3300012: Circle_006
+    3300014: Circle_007
+    3300016: Circle_008
+    3300018: Cube
+    3300020: Cube_000
+    3300022: Cube_001
+    3300024: Cube_002
+    3300026: Cube_003
+    3300028: Cube_004
+    3300030: Cylinder
+    3300032: Cylinder_000
+    3300034: Cylinder_001
+    3300036: Cylinder_002
+    3300038: Cylinder_003
+    3300040: Cylinder_004
+    3300042: Cylinder_005
+    3300044: Cylinder_006
+    3300046: Cylinder_007
+    3300048: Cylinder_008
+    3300050: Cylinder_009
+    3300052: Cylinder_010
+    3300054: Cylinder_011
+    3300056: Cylinder_012
+    3300058: NurbsPath_001
+    3300060: Plane
+    3300062: Plane_001
+    3300064: Plane_002
+    3300066: Plane_003
+    3300068: Text
+    4300000: Cylinder_009
+    4300002: Cube_004
+    4300004: Plane_003
+    4300006: NurbsPath_001
+    4300008: Text
+    4300010: Cylinder_008
+    4300012: Circle_008
+    4300014: Circle_007
+    4300016: Circle_006
+    4300018: Circle
+    4300020: Plane_002
+    4300022: Plane_001
+    4300024: Cylinder_007
+    4300026: Cylinder_002
+    4300028: Cylinder
+    4300030: Plane
+    4300032: Cube
+    4300034: Circle_005
+    4300036: Cube_000
+    4300038: Circle_004
+    4300040: Circle_003
+    4300042: Circle_001
+    4300044: Circle_002
+    4300046: Cube_003
+    4300048: Cube_002
+    4300050: Cube_001
+    4300052: Cylinder_006
+    4300054: Cylinder_000
+    4300056: Cylinder_011
+    4300058: Cylinder_012
+    4300060: Cylinder_010
+    4300062: Cylinder_005
+    4300064: Cylinder_004
+    4300066: Cylinder_003
+    4300068: Cylinder_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: daging__beef_jpg
+    second: {fileID: 2100000, guid: 6f93274db56fcf14698cdc37e7b00a1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: keju__cheese_jpg
+    second: {fileID: 2100000, guid: 4f6cd638336a6a6489d28cbcfea39304, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
